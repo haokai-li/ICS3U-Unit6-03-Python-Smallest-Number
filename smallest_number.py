@@ -9,7 +9,7 @@ import random
 def calculated_smallest_number(calculate_my_numbers):
     # This function calculate smallest number
     loop_number_second = 0
-    total_number = 100
+    total_number = calculate_my_numbers[0]
 
     # process
     for loop_number_second in calculate_my_numbers:
